@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+	<id>locationtracker</id>
+	<name>Location Tracker</name>
+	<description>Track user/device location with the help of owntracker.org</description>
+	<licence>AGPL</licence>
+	<author>Bjoern Schiessle</author>
+	<version>0.1.0</version>
+	<namespace>LocationTracker</namespace>
+	<category>other</category>
+	<dependencies>
+		<nextcloud min-version="12" max-version="12" />
+	</dependencies>
+</info>
